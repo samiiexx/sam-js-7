@@ -1,5 +1,5 @@
 # Split Landing Page
-A JavaScript Project from Brad Traversy's 50 Projects in 50 Days. This is project #7 is a split landing page. On hover, one part takes up more screen size than the other. This function was achieved by the mouseenter function in JavaScript.
+A JavaScript Project from Brad Traversy's 50 Projects in 50 Days. Project #7 is a split landing page. On hover, one part takes up more screen size than the other. This function was achieved by the mouseenter function in JavaScript.
 
 ![Split Landing Page](screenshot.jpg)
 
